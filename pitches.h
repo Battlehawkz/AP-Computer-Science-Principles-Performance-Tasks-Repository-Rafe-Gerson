@@ -1,3 +1,4 @@
+//I did not create this file. The owner and developer of this file can be found in https://gist.github.com/mikeputnam/2820675.
 /*************************************************
  * Public Constants
  *************************************************/
