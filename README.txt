@@ -12,6 +12,6 @@ I could not have accomplished this project or attained its desired purpose for i
 
 2e)-LINUX 64bit USERS-Extract the contents of "arduino-1.8.5-linux64.tar" to your desired location.
 
-3) Open the ".ino" file with the Arduino Application (Arduino.exe).
+3) Open the "AP_Computer_Science_Principles_Create_Portion" .ino file with the Arduino Application (Arduino.exe).
 
 4) All done!
